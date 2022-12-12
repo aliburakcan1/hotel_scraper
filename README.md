@@ -9,8 +9,11 @@ Informations you can scrape using this code:
         - Review Summary
         - Ratings by Traveler Type
         - Aspect Ratings
+        - Review Text and Scores
     - Location
         - Location Highlights
         - Transportation eta
+    - Amenities (in progress)
+        -
 
 Csv files in "outputs" folder give you what you can expect.
