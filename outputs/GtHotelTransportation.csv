@@ -1,0 +1,43 @@
+entity,place_type_of_arrival,place_of_arrival,transportation_type,eta
+CgoI38SKsa2ovOpUEAE,airport,Josep Tarradellas Barcelona-El Prat Airport,Taxi,17 min
+CgoI38SKsa2ovOpUEAE,airport,Josep Tarradellas Barcelona-El Prat Airport,Transit,52 min
+CgoI38SKsa2ovOpUEAE,transit,Sarrià,walking,8 min
+CgoI38SKsa2ovOpUEAE,transit,Provença,taxi,12 min by
+CgoI38SKsa2ovOpUEAE,transit,Pl. Espanya,taxi,16 min by
+CgoI38SKsa2ovOpUEAE,transit,Pl. Catalunya,taxi,18 min by
+CgoI38SKsa2ovOpUEAE,transit,Barcelona-Sants,taxi,16 min by
+CgoI7vzhpMe-mZA7EAE,airport,Josep Tarradellas Barcelona-El Prat Airport,Taxi,31 min
+CgoI7vzhpMe-mZA7EAE,airport,Josep Tarradellas Barcelona-El Prat Airport,Transit,1 hr 18 min
+CgoI7vzhpMe-mZA7EAE,transit,Badalona,walking,13 min
+CgoI7vzhpMe-mZA7EAE,transit,Sant Andreu Comtal,taxi,22 min by
+CgoI7vzhpMe-mZA7EAE,transit,Sant Andreu Arenal,taxi,22 min by
+CgoI7vzhpMe-mZA7EAE,transit,Barcelona La Sagrera-Meridiana,taxi,19 min by
+CgoI7vzhpMe-mZA7EAE,transit,Pep Ventura,walking,13 min
+CgsI0ZuI8IaE4b-uARAB,airport,Josep Tarradellas Barcelona-El Prat Airport,Taxi,17 min
+CgsI0ZuI8IaE4b-uARAB,airport,Josep Tarradellas Barcelona-El Prat Airport,Transit,37 min
+CgsI0ZuI8IaE4b-uARAB,transit,Paral·lel,walking,14 min
+CgsI0ZuI8IaE4b-uARAB,transit,Pl. Catalunya,taxi,14 min by
+CgsI0ZuI8IaE4b-uARAB,transit,Provença,taxi,16 min by
+CgsI0ZuI8IaE4b-uARAB,transit,Estación de Francia,walking,13 min
+CgsI0ZuI8IaE4b-uARAB,transit,Passeig de Gràcia,taxi,16 min by
+CgsI7o-xsb3izM6CARAB,airport,Josep Tarradellas Barcelona-El Prat Airport,Taxi,27 min
+CgsI7o-xsb3izM6CARAB,airport,Josep Tarradellas Barcelona-El Prat Airport,Transit,45 min
+CgsI7o-xsb3izM6CARAB,transit,Pl. Catalunya,taxi,13 min by
+CgsI7o-xsb3izM6CARAB,transit,Provença,taxi,14 min by
+CgsI7o-xsb3izM6CARAB,transit,Barcelona-El Clot-Aragó,walking,13 min
+CgsI7o-xsb3izM6CARAB,transit,Glòries,walking,5 min
+CgsI7o-xsb3izM6CARAB,transit,Llacuna,walking,9 min
+CgsI7semh7nNrZKlARAB,airport,Josep Tarradellas Barcelona-El Prat Airport,Taxi,20 min
+CgsI7semh7nNrZKlARAB,airport,Josep Tarradellas Barcelona-El Prat Airport,Transit,39 min
+CgsI7semh7nNrZKlARAB,transit,Provença,taxi,12 min by
+CgsI7semh7nNrZKlARAB,transit,Pl. Catalunya,taxi,18 min by
+CgsI7semh7nNrZKlARAB,transit,Les Corts,walking,7 min
+CgsI7semh7nNrZKlARAB,transit,Maria Cristina,walking,6 min
+CgsI7semh7nNrZKlARAB,transit,Diagonal - L'Illa Diagonal,walking,2 min
+CgsIlfeR45ngz6HSARAB,airport,Josep Tarradellas Barcelona-El Prat Airport,Taxi,22 min
+CgsIlfeR45ngz6HSARAB,airport,Josep Tarradellas Barcelona-El Prat Airport,Transit,50 min
+CgsIlfeR45ngz6HSARAB,transit,Sant Gervasi,walking,2 min
+CgsIlfeR45ngz6HSARAB,transit,Gràcia,walking,5 min
+CgsIlfeR45ngz6HSARAB,transit,Pl. Catalunya,taxi,10 min by
+CgsIlfeR45ngz6HSARAB,transit,Fontana,walking,7 min
+CgsIlfeR45ngz6HSARAB,transit,Pl. Molina,walking,1 min
