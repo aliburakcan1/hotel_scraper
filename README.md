@@ -13,7 +13,9 @@ Informations you can scrape using this code:
     - Location
         - Location Highlights
         - Transportation eta
-    - Amenities (in progress)
-        -
+    - Amenities
+        - Health & Safety
+        - Sustainibility
+        - Popular Amenities
 
 Csv files in "outputs" folder give you what you can expect.
