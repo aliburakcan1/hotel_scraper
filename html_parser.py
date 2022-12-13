@@ -2,7 +2,7 @@
 from lxml import html
 import os
 import time
-import re
+import pandas as pd
 
 class HTMLParser():
     """Parses the html files and extracts the data"""
@@ -90,6 +90,9 @@ class HTMLParser():
 
         time2 = time.time() - time1
         print(f"Time to parse overview: {time2}")
+        pd.DataFrame(GtHotelOverview).drop_duplicates().fillna("").to_csv("outputs/GtHotelOverview.csv", index=False)
+        pd.DataFrame(GtHotelOverview).drop_duplicates().fillna("").to_csv("outputs/GtHotelOverview.csv", index=False)
+        pd.DataFrame(GtHotelSimilarHotels).drop_duplicates().fillna("").to_csv("outputs/GtHotelSimilarHotels.csv", index=False)
         return GtHotelOverview, GtHotelTopThings, GtHotelSimilarHotels
 
     def parse_review(self):
@@ -133,6 +136,8 @@ class HTMLParser():
         GtHotelAspectTerms["negative_review_count"] = []
 
         # Read html files from the folder then parse them
+        # Measure time
+        time1 = time.time()
         for file in os.listdir(html_dir):
             if file.endswith(".html"):
                 tree = html.parse(f"{html_dir}/{file}")
@@ -208,6 +213,11 @@ class HTMLParser():
                     GtHotelAspectTerms["positive_review_count"].append(positive_review_count)
                     GtHotelAspectTerms["negative_review_count"].append(negative_review_count)
 
+        time2 = time.time()
+        print("Time to parse review: {} seconds".format(time2-time1))
+        pd.DataFrame(GtHotelReviewSummary).drop_duplicates().fillna("").to_csv("outputs/GtHotelReviewSummary.csv", index=False)
+        pd.DataFrame(GtHotelRatingsByTravelerType).drop_duplicates().fillna("").to_csv("outputs/GtHotelRatingsByTravelerType.csv", index=False)
+        pd.DataFrame(GtHotelAspectTerms).drop_duplicates().fillna("").to_csv("outputs/GtHotelAspectTerms.csv", index=False)
         return GtHotelReviewSummary, GtHotelRatingsByTravelerType, GtHotelAspectTerms
 
     def parse_review_text(self):
@@ -234,6 +244,8 @@ class HTMLParser():
         html_dir = self.html_dir
 
         # Read html files from the folder then parse them
+        # Measure time
+        start_time = time.time()
         for file in os.listdir(html_dir):
             if file.endswith(".html"):
                 review_tree = html.parse(f"{html_dir}/{file}").xpath('//div[@jsname="Pa5DKe"]')
@@ -289,6 +301,8 @@ class HTMLParser():
                             GtHotelReviews["owner_link"].append(owner_link)
                             GtHotelReviews["rating"].append(rating)
                             GtHotelReviews["review_date"].append(review_date)
+        end_time = time.time()
+        print(f"Time taken to parse {len(GtHotelReviews['entity'])} reviews: {end_time-start_time} seconds")
         return GtHotelReviews
 
     def parse_location(self):
@@ -317,7 +331,8 @@ class HTMLParser():
         GtHotelTransportation["transportation_type"] = []
         GtHotelTransportation["eta"] = []
 
-
+        #Measure time
+        start_time = time.time()
         for file in os.listdir(html_dir):
             if file.endswith(".html"):
                 entity = file.replace(".html", "")
@@ -367,6 +382,90 @@ class HTMLParser():
                         GtHotelTransportation["place_of_arrival"].append(place_of_arrival)
                         GtHotelTransportation["transportation_type"].append(transportation_type)
                         GtHotelTransportation["eta"].append(eta)
+        print("---Time to parse location: %s seconds ---" % (time.time() - start_time))
 
-
+        pd.DataFrame(GtHotelLocationHighlights).drop_duplicates().fillna("").to_csv("outputs/GtHotelLocationHighlights.csv", index=False)
+        pd.DataFrame(GtHotelTransportation).drop_duplicates().fillna("").to_csv("outputs/GtHotelTransportation.csv", index=False)
         return GtHotelLocationHighlights, GtHotelTransportation
+
+    def parse_about(self):
+        html_dir = self.html_dir
+        GtHotelFeaturesInfo = {}
+        GtHotelFeaturesInfo["entity"] = []
+        GtHotelFeaturesInfo["about"] = []
+        GtHotelFeaturesInfo["checkinout_time"] = []
+        GtHotelFeaturesInfo["contact"] = []
+
+        GtHotelFeatures = {}
+        GtHotelFeatures["entity"] = []
+        GtHotelFeatures["feature_type"] = []
+        GtHotelFeatures["feature_title"] = []
+        GtHotelFeatures["feature"] = []
+
+        ## Read html in a html_dir
+        # Measure time
+        start_time = time.time()
+        for file in os.listdir(html_dir):
+            if file.endswith(".html"):
+                entity = file.replace(".html", "")
+                tree = html.parse(f"{html_dir}/{file}")
+                about_tree_xpath = '//section[@class="mEKuwe G8T82"]'
+
+                for i, element in enumerate(tree.xpath(about_tree_xpath)):
+                    if i == 0:
+                        about, checkinout_time = [i.text_content() for i in element.xpath('.//div[@class="D35lie"]')]
+                        contact = element.xpath('.//div[@class="G8T82"]')[0].text_content()
+                        GtHotelFeaturesInfo["entity"].append(entity)
+                        GtHotelFeaturesInfo["about"].append(about)
+                        GtHotelFeaturesInfo["checkinout_time"].append(checkinout_time)
+                        GtHotelFeaturesInfo["contact"].append(contact)
+                        continue
+                    
+                    elif i == 1:
+                        for subelement in element.xpath('.//div[@jscontroller="N4VHee"]'):
+                            feature_type = "health_and_safety"
+                            feature_title = subelement.xpath('.//h4[@class="cyhNpe YMlIz"]')[0].text_content()
+                            features = subelement.xpath('.//li')
+                            for feature in features:
+                                GtHotelFeatures["entity"].append(entity)
+                                GtHotelFeatures["feature_type"].append(feature_type)
+                                GtHotelFeatures["feature_title"].append(feature_title)
+                                GtHotelFeatures["feature"].append(feature.text_content())
+                    elif i == 2:
+                        for subelement in element.xpath('.//div[@class="RhdAVb G8T82 LRUR6c" or @class="YOCwW G8T82"]'):
+                            feature_type = "amenities"
+                            for subsubelement in subelement.xpath('.//div[@class="KRM68c PnXVVe" or @class="IYmE3e"]'):
+                                #.//h4[@class="rSPaxb YMlIz" or @class="wIo7Wc YMlIz"]
+                                feature_title = subsubelement.xpath('.//h4[@class="rSPaxb YMlIz" or @class="wIo7Wc YMlIz"]')[0].text_content()
+                                features = subsubelement.xpath('.//li')
+                                for feature in features:
+                                    GtHotelFeatures["entity"].append(entity)
+                                    GtHotelFeatures["feature_type"].append(feature_type)
+                                    GtHotelFeatures["feature_title"].append(feature_title)
+                                    GtHotelFeatures["feature"].append(feature.text_content())
+                    elif i == 3:
+                        for subelement in element.xpath('.//div[@class="YOCwW G8T82"]'):
+                            feature_type = "sustainability"
+                            for subsubelement in subelement.xpath('.//div[@class="IYmE3e"]'):
+                                #.//h4[@class="rSPaxb YMlIz" or @class="wIo7Wc YMlIz"]
+                                feature_title = subsubelement.xpath('.//h4[@class="rSPaxb YMlIz"]')[0].text_content()
+                                features = subsubelement.xpath('.//li')
+                                for feature in features:
+                                    GtHotelFeatures["entity"].append(entity)
+                                    GtHotelFeatures["feature_type"].append(feature_type)
+                                    GtHotelFeatures["feature_title"].append(feature_title)
+                                    GtHotelFeatures["feature"].append(feature.text_content())
+                        
+                    else:
+                        feature_type = "other"
+
+        time2 = time.time() - start_time
+        print("---Time to parse about: %s seconds ---" % (time.time() - start_time))
+        pd.DataFrame(GtHotelFeaturesInfo).drop_duplicates().fillna("").to_csv("outputs/GtHotelFeaturesInfo.csv", index=False)
+        pd.DataFrame(GtHotelFeatures).drop_duplicates().fillna("").to_csv("outputs/GtHotelFeatures.csv", index=False)
+        return GtHotelFeaturesInfo, GtHotelFeatures
+
+
+
+
+

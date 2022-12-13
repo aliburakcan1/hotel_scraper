@@ -1,8 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 import time
@@ -45,7 +43,7 @@ class HotelScraper():
         review_count = driver.find_elements(By.XPATH, review_count_xpath)[0].text.split(" ")[0] if len(driver.find_elements(By.XPATH, review_count_xpath))>0 else "0"
         review_count = int(review_count.replace(",", "").replace(".", ""))
         review_count = review_count if review_count < n_reviews else n_reviews
-        print("review_count", review_count)
+        #print("review_count", review_count)
         review_loop_count = round(review_count/10) - 10
         page_scroll_change_count = 0
         stop = False
@@ -86,3 +84,4 @@ class HotelScraper():
         print(f"Scroll time per review: {scroll_time/review_count}")
 
         return driver.page_source
+

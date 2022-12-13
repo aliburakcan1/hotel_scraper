@@ -81,5 +81,4 @@ class EntityFinder():
         clear_hotel_class_script = f'document.evaluate(\'{clear_hotel_class_xpath}\', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue.click()'
         driver.execute_script(clear_hotel_class_script)
         driver.close()
-        print(f"{time.time()} last time")
         return name_entity
