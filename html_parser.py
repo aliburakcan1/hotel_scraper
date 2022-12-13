@@ -5,11 +5,18 @@ import time
 import re
 
 class HTMLParser():
+    """Parses the html files and extracts the data"""
+
     def __init__(self, html_dir):
         self.html_dir = html_dir
         pass
     
     def parse_overview(self):
+        """
+        Parses the overview section of the html file
+        Returns a dictionary with the following keys:
+        entity, gt_name, star, city, province, district, address, phone, summary, score, price
+        """
         html_dir = self.html_dir
         GtHotelOverview = {}
         GtHotelOverview["entity"] = []
@@ -86,6 +93,10 @@ class HTMLParser():
         return GtHotelOverview, GtHotelTopThings, GtHotelSimilarHotels
 
     def parse_review(self):
+        """
+        Parse the review page
+        return: GtHotelReviewSummary, GtHotelRatingsByTravelerType, GtHotelReview
+        """
 
         html_dir = self.html_dir
 
@@ -200,6 +211,12 @@ class HTMLParser():
         return GtHotelReviewSummary, GtHotelRatingsByTravelerType, GtHotelAspectTerms
 
     def parse_review_text(self):
+        """
+        Parse review text from the html files
+        
+        Returns:
+            GtHotelReviews (dict): A dictionary of lists containing the parsed data
+        """
 
         GtHotelReviews = {}
         GtHotelReviews["entity"] = []
@@ -275,6 +292,13 @@ class HTMLParser():
         return GtHotelReviews
 
     def parse_location(self):
+        """
+        Parse location information from the html files
+        
+        Returns:
+            GtHotelLocationHighlights (dict): A dictionary of location highlights
+            GtHotelTransportation (dict): A dictionary of transportation information
+        """
         html_dir = self.html_dir
         GtHotelLocationHighlights = {}
         GtHotelLocationHighlights["entity"] = []
@@ -343,9 +367,6 @@ class HTMLParser():
                         GtHotelTransportation["place_of_arrival"].append(place_of_arrival)
                         GtHotelTransportation["transportation_type"].append(transportation_type)
                         GtHotelTransportation["eta"].append(eta)
-
-
-
 
 
         return GtHotelLocationHighlights, GtHotelTransportation

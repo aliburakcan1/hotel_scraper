@@ -83,4 +83,3 @@ def parse_html_files(method):
 
 
 parse_html_files("location")
-
