@@ -83,7 +83,7 @@ def parallel_parse_html_files():
     threading.Thread(target=parser.parse_review_text, args=[]).start()
     threading.Thread(target=parser.parse_location, args=[]).start()
     threading.Thread(target=parser.parse_about, args=[]).start()
-    
+
 
 #find_entities(regions, stars)
 #read_and_scrape_hotels()
@@ -105,4 +105,7 @@ if __name__ == '__main__':
     regions = ["barcelona"]
     stars = ["5"]
 
+    #find_entities(regions, stars)
+    #read_and_scrape_hotels()
+    #parse_html_files("location")
     parallel_parse_html_files()

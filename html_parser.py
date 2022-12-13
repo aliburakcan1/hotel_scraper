@@ -411,9 +411,16 @@ class HTMLParser():
                 tree = html.parse(f"{html_dir}/{file}")
                 about_tree_xpath = '//section[@class="mEKuwe G8T82"]'
 
+                about, checkinout_time = None, None
                 for i, element in enumerate(tree.xpath(about_tree_xpath)):
                     if i == 0:
-                        about, checkinout_time = [i.text_content() for i in element.xpath('.//div[@class="D35lie"]')]
+                        for i in element.xpath('.//div[@class="D35lie"]'):
+                            if i==0:
+                                about = i.text_content()
+                            elif i==1:
+                                checkinout_time = i.text_content()
+                            else:
+                                pass
                         contact = element.xpath('.//div[@class="G8T82"]')[0].text_content()
                         GtHotelFeaturesInfo["entity"].append(entity)
                         GtHotelFeaturesInfo["about"].append(about)
@@ -454,8 +461,7 @@ class HTMLParser():
                                     GtHotelFeatures["entity"].append(entity)
                                     GtHotelFeatures["feature_type"].append(feature_type)
                                     GtHotelFeatures["feature_title"].append(feature_title)
-                                    GtHotelFeatures["feature"].append(feature.text_content())
-                        
+                                    GtHotelFeatures["feature"].append(feature.text_content())   
                     else:
                         feature_type = "other"
 

@@ -1,4 +1,34 @@
 entity,feature_type,feature_title,feature
+CgoI0eKGsMmkssYqEAE,health_and_safety,Enhanced cleaning,Commercial-grade disinfectant used to clean the property
+CgoI0eKGsMmkssYqEAE,health_and_safety,Enhanced cleaning,Enhanced cleaning of common areas
+CgoI0eKGsMmkssYqEAE,health_and_safety,Physical distancing,Physical distancing required
+CgoI0eKGsMmkssYqEAE,health_and_safety,Physical distancing,Common areas arranged to maintain physical distancing
+CgoI0eKGsMmkssYqEAE,amenities,Popular amenities,Pool
+CgoI0eKGsMmkssYqEAE,amenities,Popular amenities,Wi-Fifree
+CgoI0eKGsMmkssYqEAE,amenities,Popular amenities,Air conditioning
+CgoI0eKGsMmkssYqEAE,amenities,Popular amenities,Breakfast
+CgoI0eKGsMmkssYqEAE,amenities,Internet,Wi-Fifree
+CgoI0eKGsMmkssYqEAE,amenities,Policies & payments,Smoke-free property
+CgoI0eKGsMmkssYqEAE,amenities,Policies & payments,Credit cards
+CgoI0eKGsMmkssYqEAE,amenities,Children,Kid-friendly
+CgoI0eKGsMmkssYqEAE,amenities,Children,Babysitting
+CgoI0eKGsMmkssYqEAE,amenities,Pools,Indoor pool
+CgoI0eKGsMmkssYqEAE,amenities,Wellness,Fitness center
+CgoI0eKGsMmkssYqEAE,amenities,Wellness,Sauna
+CgoI0eKGsMmkssYqEAE,amenities,Pets,Pet-friendly
+CgoI0eKGsMmkssYqEAE,amenities,Food & drink,Restaurant
+CgoI0eKGsMmkssYqEAE,amenities,Food & drink,Bar
+CgoI0eKGsMmkssYqEAE,amenities,Food & drink,Breakfast
+CgoI0eKGsMmkssYqEAE,amenities,Services,Front desk24 hour
+CgoI0eKGsMmkssYqEAE,amenities,Services,Full-service laundry
+CgoI0eKGsMmkssYqEAE,amenities,Services,Self-service laundry
+CgoI0eKGsMmkssYqEAE,amenities,Services,Elevator
+CgoI0eKGsMmkssYqEAE,amenities,Parking & transportation,Parking
+CgoI0eKGsMmkssYqEAE,amenities,Parking & transportation,Airport shuttlefree
+CgoI0eKGsMmkssYqEAE,amenities,Parking & transportation,Car rental onsite
+CgoI0eKGsMmkssYqEAE,amenities,Accessibility,Accessible
+CgoI0eKGsMmkssYqEAE,amenities,Rooms,Air conditioning
+CgoI0eKGsMmkssYqEAE,amenities,Rooms,Minibar
 CgoI38SKsa2ovOpUEAE,health_and_safety,Enhanced cleaning,Commercial-grade disinfectant used to clean the property
 CgoI38SKsa2ovOpUEAE,health_and_safety,Enhanced cleaning,"Employees wear masks, face shields, and/or gloves"
 CgoI38SKsa2ovOpUEAE,health_and_safety,Enhanced cleaning,Enhanced cleaning of common areas
@@ -57,6 +87,283 @@ CgoI38SKsa2ovOpUEAE,sustainability,Sustainable sourcing,Responsibly sourced seaf
 CgoI38SKsa2ovOpUEAE,sustainability,Sustainable sourcing,Organic cage-free eggs
 CgoI38SKsa2ovOpUEAE,sustainability,Sustainable sourcing,Vegetarian and vegan meals
 CgoI38SKsa2ovOpUEAE,sustainability,Sustainable sourcing,Eco-friendly toiletries
+CgoIl63G7O7f-74LEAE,health_and_safety,Enhanced cleaning,Commercial-grade disinfectant used to clean the property
+CgoIl63G7O7f-74LEAE,health_and_safety,Enhanced cleaning,"Employees wear masks, face shields, and/or gloves"
+CgoIl63G7O7f-74LEAE,health_and_safety,Enhanced cleaning,Enhanced cleaning of common areas
+CgoIl63G7O7f-74LEAE,health_and_safety,Physical distancing,Physical distancing required
+CgoIl63G7O7f-74LEAE,health_and_safety,Physical distancing,Common areas arranged to maintain physical distancing
+CgoIl63G7O7f-74LEAE,health_and_safety,Physical distancing,Safety dividers at front desk and other locations
+CgoIl63G7O7f-74LEAE,health_and_safety,Minimized contact,No-contact check-in and check-out
+CgoIl63G7O7f-74LEAE,health_and_safety,Increased food safety,Individually-packaged meals
+CgoIl63G7O7f-74LEAE,amenities,Popular amenities,Pool
+CgoIl63G7O7f-74LEAE,amenities,Popular amenities,Spa
+CgoIl63G7O7f-74LEAE,amenities,Popular amenities,Hot tub
+CgoIl63G7O7f-74LEAE,amenities,Popular amenities,Wi-Fifree
+CgoIl63G7O7f-74LEAE,amenities,Internet,Wi-Fifree
+CgoIl63G7O7f-74LEAE,amenities,Policies & payments,Smoke-free property
+CgoIl63G7O7f-74LEAE,amenities,Activities,Bicycle rentalextra charge
+CgoIl63G7O7f-74LEAE,amenities,Children,Kid-friendly
+CgoIl63G7O7f-74LEAE,amenities,Pools,Outdoor pool
+CgoIl63G7O7f-74LEAE,amenities,Pools,Hot tub
+CgoIl63G7O7f-74LEAE,amenities,Wellness,Fitness center
+CgoIl63G7O7f-74LEAE,amenities,Wellness,Sauna
+CgoIl63G7O7f-74LEAE,amenities,Wellness,Spa
+CgoIl63G7O7f-74LEAE,amenities,Pets,No pets
+CgoIl63G7O7f-74LEAE,amenities,Rooms,Air conditioning
+CgoIl63G7O7f-74LEAE,amenities,Rooms,Minibar
+CgoIl63G7O7f-74LEAE,amenities,Food & drink,Restaurant
+CgoIl63G7O7f-74LEAE,amenities,Food & drink,Room service
+CgoIl63G7O7f-74LEAE,amenities,Food & drink,Breakfast
+CgoIl63G7O7f-74LEAE,amenities,Food & drink,Vending machines
+CgoIl63G7O7f-74LEAE,amenities,Services,Front desk24 hour
+CgoIl63G7O7f-74LEAE,amenities,Services,Baggage storage
+CgoIl63G7O7f-74LEAE,amenities,Services,Concierge
+CgoIl63G7O7f-74LEAE,amenities,Services,Full-service laundry
+CgoIl63G7O7f-74LEAE,amenities,Services,Elevator
+CgoIl63G7O7f-74LEAE,amenities,Parking & transportation,Parking
+CgoIl63G7O7f-74LEAE,amenities,Parking & transportation,Transfer
+CgoIl63G7O7f-74LEAE,amenities,Accessibility,Accessible
+CgoIl63G7O7f-74LEAE,amenities,Business & events,Business center
+CgoIl63G7O7f-74LEAE,amenities,Business & events,Meeting rooms
+CgoIl63G7O7f-74LEAE,amenities,Bathrooms,Private bathroom
+CgoIl63G7O7f-74LEAE,amenities,Bathrooms,Bathtub in some rooms
+CgoIl63G7O7f-74LEAE,amenities,Bathrooms,Shower in some rooms
+CgoIl63G7O7f-74LEAE,sustainability,Eco certifications,ISO 14001
+CgoIl63G7O7f-74LEAE,sustainability,Water conservation,Water use audited by an independent organization
+CgoIl63G7O7f-74LEAE,sustainability,Water conservation,Water-efficient faucets
+CgoIl63G7O7f-74LEAE,sustainability,Water conservation,Towel and linen reuse program
+CgoIl63G7O7f-74LEAE,sustainability,Sustainable sourcing,Responsible purchasing policy
+CgoIl63G7O7f-74LEAE,sustainability,Sustainable sourcing,Organic food and beverages
+CgoIl63G7O7f-74LEAE,sustainability,Sustainable sourcing,Locally sourced food and beverages
+CgoIl63G7O7f-74LEAE,sustainability,Sustainable sourcing,Vegetarian and vegan meals
+CgoIl63G7O7f-74LEAE,sustainability,Energy efficiency,Energy conservation program
+CgoIl63G7O7f-74LEAE,sustainability,Energy efficiency,Energy use audited by an independent organization
+CgoIl63G7O7f-74LEAE,sustainability,Energy efficiency,Energy-efficient lighting
+CgoIl63G7O7f-74LEAE,sustainability,Energy efficiency,Energy-saving thermostats
+CgoIl63G7O7f-74LEAE,sustainability,Waste reduction,Recycling program
+CgoIl63G7O7f-74LEAE,sustainability,Waste reduction,Food waste reduction program
+CgoIl63G7O7f-74LEAE,sustainability,Waste reduction,Donates excess food
+CgoIl63G7O7f-74LEAE,sustainability,Waste reduction,"Safely disposes of electronics, batteries, and lightbulbs"
+CgoIl63G7O7f-74LEAE,sustainability,Waste reduction,Refillable toiletry containers
+CgoIl63G7O7f-74LEAE,sustainability,Waste reduction,Compostable food containers and cutlery
+CgoIl63G7O7f-74LEAE,sustainability,Waste reduction,No Styrofoam food containers
+CgoIl63G7O7f-74LEAE,sustainability,Waste reduction,No single-use plastic water bottles or straws
+CgoIs52S8eisvbQ3EAE,health_and_safety,Enhanced cleaning,Enhanced cleaning of guest rooms
+CgoIs52S8eisvbQ3EAE,health_and_safety,Enhanced cleaning,Commercial-grade disinfectant used to clean the property
+CgoIs52S8eisvbQ3EAE,health_and_safety,Enhanced cleaning,Employees trained in COVID-19 cleaning procedures
+CgoIs52S8eisvbQ3EAE,health_and_safety,Enhanced cleaning,"Employees wear masks, face shields, and/or gloves"
+CgoIs52S8eisvbQ3EAE,health_and_safety,Enhanced cleaning,Enhanced cleaning of common areas
+CgoIs52S8eisvbQ3EAE,health_and_safety,Enhanced cleaning,Employees trained in thorough hand-washing
+CgoIs52S8eisvbQ3EAE,health_and_safety,Personal protection,Masks required on the property
+CgoIs52S8eisvbQ3EAE,health_and_safety,Personal protection,Hand-sanitizer and/or sanitizing wipes in common areas
+CgoIs52S8eisvbQ3EAE,health_and_safety,Personal protection,"In-room hygiene kits with masks, hand sanitizer, and/or antibacterial wipes"
+CgoIs52S8eisvbQ3EAE,health_and_safety,Personal protection,Masks and/or gloves available for guests
+CgoIs52S8eisvbQ3EAE,health_and_safety,Physical distancing,Guest occupancy limited within shared facilities
+CgoIs52S8eisvbQ3EAE,health_and_safety,Physical distancing,Physical distancing required
+CgoIs52S8eisvbQ3EAE,health_and_safety,Physical distancing,Common areas arranged to maintain physical distancing
+CgoIs52S8eisvbQ3EAE,health_and_safety,Minimized contact,No-contact check-in and check-out
+CgoIs52S8eisvbQ3EAE,health_and_safety,Minimized contact,"High-touch items, such as decorative pillows, removed from guest rooms"
+CgoIs52S8eisvbQ3EAE,health_and_safety,Minimized contact,Plastic key cards are disinfected or discarded
+CgoIs52S8eisvbQ3EAE,health_and_safety,Minimized contact,"High-touch items, such as magazines, removed from common areas"
+CgoIs52S8eisvbQ3EAE,health_and_safety,Minimized contact,Buffer maintained between room bookings
+CgoIs52S8eisvbQ3EAE,health_and_safety,Increased food safety,Additional sanitation in dining areas
+CgoIs52S8eisvbQ3EAE,health_and_safety,Increased food safety,Additional safety measures during food prep and serving
+CgoIs52S8eisvbQ3EAE,health_and_safety,Increased food safety,Single-use menus
+CgoIs52S8eisvbQ3EAE,amenities,Popular amenities,Pool
+CgoIs52S8eisvbQ3EAE,amenities,Popular amenities,Hot tub
+CgoIs52S8eisvbQ3EAE,amenities,Popular amenities,Wi-Fifree
+CgoIs52S8eisvbQ3EAE,amenities,Popular amenities,Air conditioning
+CgoIs52S8eisvbQ3EAE,amenities,Internet,Wi-Fifree
+CgoIs52S8eisvbQ3EAE,amenities,Internet,Wi-Fi in public areas
+CgoIs52S8eisvbQ3EAE,amenities,Policies & payments,Smoke-free property
+CgoIs52S8eisvbQ3EAE,amenities,Policies & payments,Credit cards
+CgoIs52S8eisvbQ3EAE,amenities,Children,Kid-friendly
+CgoIs52S8eisvbQ3EAE,amenities,Children,Babysitting
+CgoIs52S8eisvbQ3EAE,amenities,Pools,Indoor pool
+CgoIs52S8eisvbQ3EAE,amenities,Pools,Hot tub
+CgoIs52S8eisvbQ3EAE,amenities,Parking & transportation,Parking
+CgoIs52S8eisvbQ3EAE,amenities,Parking & transportation,Self parking
+CgoIs52S8eisvbQ3EAE,amenities,Parking & transportation,Car rental onsite
+CgoIs52S8eisvbQ3EAE,amenities,Accessibility,Accessible
+CgoIs52S8eisvbQ3EAE,amenities,Accessibility,Accessible parking
+CgoIs52S8eisvbQ3EAE,amenities,Business & events,Meeting rooms
+CgoIs52S8eisvbQ3EAE,amenities,Languages spoken,English
+CgoIs52S8eisvbQ3EAE,amenities,Languages spoken,French
+CgoIs52S8eisvbQ3EAE,amenities,Languages spoken,German
+CgoIs52S8eisvbQ3EAE,amenities,Languages spoken,Spanish
+CgoIs52S8eisvbQ3EAE,amenities,Food & drink,Restaurant
+CgoIs52S8eisvbQ3EAE,amenities,Food & drink,Bar
+CgoIs52S8eisvbQ3EAE,amenities,Food & drink,Breakfastextra charge
+CgoIs52S8eisvbQ3EAE,amenities,Food & drink,Breakfast buffet
+CgoIs52S8eisvbQ3EAE,amenities,Services,Front desk24 hour
+CgoIs52S8eisvbQ3EAE,amenities,Services,Baggage storage
+CgoIs52S8eisvbQ3EAE,amenities,Services,Concierge
+CgoIs52S8eisvbQ3EAE,amenities,Services,Full-service laundry
+CgoIs52S8eisvbQ3EAE,amenities,Services,Self-service laundry
+CgoIs52S8eisvbQ3EAE,amenities,Services,Elevator
+CgoIs52S8eisvbQ3EAE,amenities,Services,Wake up calls
+CgoIs52S8eisvbQ3EAE,amenities,Services,Gift shop
+CgoIs52S8eisvbQ3EAE,amenities,Services,Housekeepingdaily
+CgoIs52S8eisvbQ3EAE,amenities,Services,Turndown service
+CgoIs52S8eisvbQ3EAE,amenities,Wellness,Fitness center
+CgoIs52S8eisvbQ3EAE,amenities,Wellness,Elliptical machine
+CgoIs52S8eisvbQ3EAE,amenities,Wellness,Treadmill
+CgoIs52S8eisvbQ3EAE,amenities,Wellness,Weight machines
+CgoIs52S8eisvbQ3EAE,amenities,Wellness,Free weights
+CgoIs52S8eisvbQ3EAE,amenities,Wellness,Hair salon
+CgoIs52S8eisvbQ3EAE,amenities,Pets,No pets
+CgoIs52S8eisvbQ3EAE,amenities,Rooms,Air conditioning
+CgoIs52S8eisvbQ3EAE,amenities,Rooms,Coffee maker
+CgoIs52S8eisvbQ3EAE,sustainability,Eco certifications,Biosphere Responsible Tourism Standard
+CgoIs52S8eisvbQ3EAE,sustainability,Water conservation,Towel and linen reuse program
+CgoIs52S8eisvbQ3EAE,sustainability,Sustainable sourcing,Responsible purchasing policy
+CgoIs52S8eisvbQ3EAE,sustainability,Energy efficiency,Energy conservation program
+CgoIs52S8eisvbQ3EAE,sustainability,Energy efficiency,Electric vehicle charging stations
+CgoIs52S8eisvbQ3EAE,sustainability,Waste reduction,Refillable toiletry containers
+CgoIs52S8eisvbQ3EAE,sustainability,Waste reduction,No single-use plastic straws
+CgoIwd7E5KTjyKEHEAE,health_and_safety,Enhanced cleaning,Enhanced cleaning of guest rooms
+CgoIwd7E5KTjyKEHEAE,health_and_safety,Enhanced cleaning,Commercial-grade disinfectant used to clean the property
+CgoIwd7E5KTjyKEHEAE,health_and_safety,Enhanced cleaning,Employees trained in COVID-19 cleaning procedures
+CgoIwd7E5KTjyKEHEAE,health_and_safety,Enhanced cleaning,"Employees wear masks, face shields, and/or gloves"
+CgoIwd7E5KTjyKEHEAE,health_and_safety,Enhanced cleaning,Enhanced cleaning of common areas
+CgoIwd7E5KTjyKEHEAE,health_and_safety,Enhanced cleaning,Employees trained in thorough hand-washing
+CgoIwd7E5KTjyKEHEAE,health_and_safety,Personal protection,Masks required on the property
+CgoIwd7E5KTjyKEHEAE,health_and_safety,Personal protection,Hand-sanitizer and/or sanitizing wipes in common areas
+CgoIwd7E5KTjyKEHEAE,health_and_safety,Physical distancing,Guest occupancy limited within shared facilities
+CgoIwd7E5KTjyKEHEAE,health_and_safety,Physical distancing,Physical distancing required
+CgoIwd7E5KTjyKEHEAE,health_and_safety,Physical distancing,Common areas arranged to maintain physical distancing
+CgoIwd7E5KTjyKEHEAE,health_and_safety,Physical distancing,Safety dividers at front desk and other locations
+CgoIwd7E5KTjyKEHEAE,health_and_safety,Minimized contact,No-contact check-in and check-out
+CgoIwd7E5KTjyKEHEAE,health_and_safety,Minimized contact,"High-touch items, such as decorative pillows, removed from guest rooms"
+CgoIwd7E5KTjyKEHEAE,health_and_safety,Minimized contact,Plastic key cards are disinfected or discarded
+CgoIwd7E5KTjyKEHEAE,health_and_safety,Minimized contact,"High-touch items, such as magazines, removed from common areas"
+CgoIwd7E5KTjyKEHEAE,health_and_safety,Increased food safety,Additional sanitation in dining areas
+CgoIwd7E5KTjyKEHEAE,health_and_safety,Increased food safety,Additional safety measures during food prep and serving
+CgoIwd7E5KTjyKEHEAE,amenities,Popular amenities,Pool
+CgoIwd7E5KTjyKEHEAE,amenities,Popular amenities,Wi-Fifree
+CgoIwd7E5KTjyKEHEAE,amenities,Popular amenities,Air conditioning
+CgoIwd7E5KTjyKEHEAE,amenities,Popular amenities,Breakfastextra charge
+CgoIwd7E5KTjyKEHEAE,amenities,Internet,Wi-Fifree
+CgoIwd7E5KTjyKEHEAE,amenities,Internet,Wi-Fi in public areas
+CgoIwd7E5KTjyKEHEAE,amenities,Internet,Public internet workstation
+CgoIwd7E5KTjyKEHEAE,amenities,Policies & payments,Smoke-free property
+CgoIwd7E5KTjyKEHEAE,amenities,Policies & payments,Credit cards
+CgoIwd7E5KTjyKEHEAE,amenities,Policies & payments,Debit cards
+CgoIwd7E5KTjyKEHEAE,amenities,Policies & payments,NFC mobile payments
+CgoIwd7E5KTjyKEHEAE,amenities,Policies & payments,Cash
+CgoIwd7E5KTjyKEHEAE,amenities,Children,Kid-friendly
+CgoIwd7E5KTjyKEHEAE,amenities,Children,Babysitting
+CgoIwd7E5KTjyKEHEAE,amenities,Children,Activities for kids
+CgoIwd7E5KTjyKEHEAE,amenities,Children,Kids' club
+CgoIwd7E5KTjyKEHEAE,amenities,Pools,Outdoor pool
+CgoIwd7E5KTjyKEHEAE,amenities,Pools,Wading pool
+CgoIwd7E5KTjyKEHEAE,amenities,Pools,No hot tub
+CgoIwd7E5KTjyKEHEAE,amenities,Wellness,Fitness centerfree
+CgoIwd7E5KTjyKEHEAE,amenities,Wellness,Elliptical machine
+CgoIwd7E5KTjyKEHEAE,amenities,Wellness,Treadmill
+CgoIwd7E5KTjyKEHEAE,amenities,Wellness,Free weights
+CgoIwd7E5KTjyKEHEAE,amenities,Wellness,Massage
+CgoIwd7E5KTjyKEHEAE,amenities,Wellness,No spa
+CgoIwd7E5KTjyKEHEAE,amenities,Business & events,Business center
+CgoIwd7E5KTjyKEHEAE,amenities,Business & events,Meeting rooms
+CgoIwd7E5KTjyKEHEAE,amenities,Languages spoken,English
+CgoIwd7E5KTjyKEHEAE,amenities,Languages spoken,French
+CgoIwd7E5KTjyKEHEAE,amenities,Languages spoken,German
+CgoIwd7E5KTjyKEHEAE,amenities,Languages spoken,Italian
+CgoIwd7E5KTjyKEHEAE,amenities,Languages spoken,Spanish
+CgoIwd7E5KTjyKEHEAE,amenities,Bathrooms,Private bathroom
+CgoIwd7E5KTjyKEHEAE,amenities,Bathrooms,Bathtub
+CgoIwd7E5KTjyKEHEAE,amenities,Food & drink,Restaurant
+CgoIwd7E5KTjyKEHEAE,amenities,Food & drink,Bar
+CgoIwd7E5KTjyKEHEAE,amenities,Food & drink,Table service
+CgoIwd7E5KTjyKEHEAE,amenities,Food & drink,Room service
+CgoIwd7E5KTjyKEHEAE,amenities,Food & drink,Breakfastextra charge
+CgoIwd7E5KTjyKEHEAE,amenities,Food & drink,Breakfast buffet
+CgoIwd7E5KTjyKEHEAE,amenities,Activities,Game room
+CgoIwd7E5KTjyKEHEAE,amenities,Services,Front desk24 hour
+CgoIwd7E5KTjyKEHEAE,amenities,Services,Baggage storage
+CgoIwd7E5KTjyKEHEAE,amenities,Services,Concierge
+CgoIwd7E5KTjyKEHEAE,amenities,Services,Currency exchange
+CgoIwd7E5KTjyKEHEAE,amenities,Services,Full-service laundry
+CgoIwd7E5KTjyKEHEAE,amenities,Services,Elevator
+CgoIwd7E5KTjyKEHEAE,amenities,Services,Wake up calls
+CgoIwd7E5KTjyKEHEAE,amenities,Services,Gift shop
+CgoIwd7E5KTjyKEHEAE,amenities,Services,Housekeepingdaily
+CgoIwd7E5KTjyKEHEAE,amenities,Parking & transportation,Parkingextra charge
+CgoIwd7E5KTjyKEHEAE,amenities,Parking & transportation,Self parkingextra charge
+CgoIwd7E5KTjyKEHEAE,amenities,Parking & transportation,Car rental onsite
+CgoIwd7E5KTjyKEHEAE,amenities,Accessibility,Accessible
+CgoIwd7E5KTjyKEHEAE,amenities,Accessibility,Accessible parking
+CgoIwd7E5KTjyKEHEAE,amenities,Accessibility,Accessible elevator
+CgoIwd7E5KTjyKEHEAE,amenities,Pets,Pet-friendlyextra charge
+CgoIwd7E5KTjyKEHEAE,amenities,Pets,Dogs allowed
+CgoIwd7E5KTjyKEHEAE,amenities,Pets,Cats allowed
+CgoIwd7E5KTjyKEHEAE,amenities,Rooms,Air conditioning
+CgoIwd7E5KTjyKEHEAE,amenities,Rooms,Coffee maker in some rooms
+CgoIwd7E5KTjyKEHEAE,amenities,Rooms,Minibar
+CgoIwd7E5KTjyKEHEAE,sustainability,Energy efficiency,Energy use audited by an independent organization
+CgoIwd7E5KTjyKEHEAE,sustainability,Energy efficiency,Energy-efficient lighting
+CgoIwd7E5KTjyKEHEAE,sustainability,Waste reduction,Food waste reduction program
+CgoIwd7E5KTjyKEHEAE,sustainability,Waste reduction,Safely handles hazardous substances
+CgoIwd7E5KTjyKEHEAE,sustainability,Waste reduction,"Safely disposes of electronics, batteries, and lightbulbs"
+CgoIwd7E5KTjyKEHEAE,sustainability,Waste reduction,No single-use plastic straws
+CgoIwd7E5KTjyKEHEAE,sustainability,Water conservation,Water use audited by an independent organization
+CgoIwd7E5KTjyKEHEAE,sustainability,Water conservation,"Water-efficient faucets, toilets, and showers"
+CgoIwd7E5KTjyKEHEAE,sustainability,Water conservation,Towel and linen reuse program
+CgoIwd7E5KTjyKEHEAE,sustainability,Sustainable sourcing,Organic food and beverages
+CgoIwd7E5KTjyKEHEAE,sustainability,Sustainable sourcing,Locally sourced food and beverages
+CgoIwd7E5KTjyKEHEAE,sustainability,Sustainable sourcing,Vegetarian meals
+CgoIwd7E5KTjyKEHEAE,sustainability,Sustainable sourcing,Eco-friendly toiletries
+CgoIyuzX_rWUq4B5EAE,health_and_safety,Enhanced cleaning,Commercial-grade disinfectant used to clean the property
+CgoIyuzX_rWUq4B5EAE,health_and_safety,Enhanced cleaning,"Employees wear masks, face shields, and/or gloves"
+CgoIyuzX_rWUq4B5EAE,health_and_safety,Enhanced cleaning,Enhanced cleaning of common areas
+CgoIyuzX_rWUq4B5EAE,health_and_safety,Personal protection,Masks and/or gloves available for guests
+CgoIyuzX_rWUq4B5EAE,health_and_safety,Physical distancing,Physical distancing required
+CgoIyuzX_rWUq4B5EAE,health_and_safety,Physical distancing,Common areas arranged to maintain physical distancing
+CgoIyuzX_rWUq4B5EAE,amenities,Popular amenities,Wi-Fifree
+CgoIyuzX_rWUq4B5EAE,amenities,Popular amenities,Air conditioning
+CgoIyuzX_rWUq4B5EAE,amenities,Popular amenities,Breakfastextra charge
+CgoIyuzX_rWUq4B5EAE,amenities,Popular amenities,Parkingextra charge
+CgoIyuzX_rWUq4B5EAE,amenities,Internet,Wi-Fifree
+CgoIyuzX_rWUq4B5EAE,amenities,Internet,Wi-Fi in public areas
+CgoIyuzX_rWUq4B5EAE,amenities,Policies & payments,Smoke-free property
+CgoIyuzX_rWUq4B5EAE,amenities,Policies & payments,Credit cards
+CgoIyuzX_rWUq4B5EAE,amenities,Policies & payments,Debit cards
+CgoIyuzX_rWUq4B5EAE,amenities,Policies & payments,Cash
+CgoIyuzX_rWUq4B5EAE,amenities,Children,Kid-friendly
+CgoIyuzX_rWUq4B5EAE,amenities,Pools,No pools
+CgoIyuzX_rWUq4B5EAE,amenities,Pools,No hot tub
+CgoIyuzX_rWUq4B5EAE,amenities,Wellness,Fitness centerfree
+CgoIyuzX_rWUq4B5EAE,amenities,Wellness,Elliptical machine
+CgoIyuzX_rWUq4B5EAE,amenities,Wellness,Treadmill
+CgoIyuzX_rWUq4B5EAE,amenities,Wellness,Free weights
+CgoIyuzX_rWUq4B5EAE,amenities,Wellness,No spa
+CgoIyuzX_rWUq4B5EAE,amenities,Business & events,Business center
+CgoIyuzX_rWUq4B5EAE,amenities,Business & events,Meeting rooms
+CgoIyuzX_rWUq4B5EAE,amenities,Rooms,Air conditioning
+CgoIyuzX_rWUq4B5EAE,amenities,Rooms,Minibar
+CgoIyuzX_rWUq4B5EAE,amenities,Food & drink,Breakfastextra charge
+CgoIyuzX_rWUq4B5EAE,amenities,Food & drink,Breakfast buffet
+CgoIyuzX_rWUq4B5EAE,amenities,Services,Front desk24 hour
+CgoIyuzX_rWUq4B5EAE,amenities,Services,Baggage storage
+CgoIyuzX_rWUq4B5EAE,amenities,Services,Concierge
+CgoIyuzX_rWUq4B5EAE,amenities,Services,Currency exchange
+CgoIyuzX_rWUq4B5EAE,amenities,Services,Full-service laundry
+CgoIyuzX_rWUq4B5EAE,amenities,Services,Elevator
+CgoIyuzX_rWUq4B5EAE,amenities,Services,Wake up calls
+CgoIyuzX_rWUq4B5EAE,amenities,Services,Housekeepingdaily
+CgoIyuzX_rWUq4B5EAE,amenities,Parking & transportation,Parkingextra charge
+CgoIyuzX_rWUq4B5EAE,amenities,Parking & transportation,Self parkingextra charge
+CgoIyuzX_rWUq4B5EAE,amenities,Parking & transportation,Car rental onsite
+CgoIyuzX_rWUq4B5EAE,amenities,Accessibility,Accessible
+CgoIyuzX_rWUq4B5EAE,amenities,Accessibility,Accessible parking
+CgoIyuzX_rWUq4B5EAE,amenities,Accessibility,Accessible elevator
+CgoIyuzX_rWUq4B5EAE,amenities,Pets,No pets
+CgoIyuzX_rWUq4B5EAE,amenities,Languages spoken,English
+CgoIyuzX_rWUq4B5EAE,amenities,Languages spoken,Spanish
+CgoIyuzX_rWUq4B5EAE,amenities,Bathrooms,Private bathroom
+CgoIyuzX_rWUq4B5EAE,amenities,Bathrooms,Bathtub in some rooms
+CgoIyuzX_rWUq4B5EAE,amenities,Bathrooms,Shower
 CgsI0ZuI8IaE4b-uARAB,health_and_safety,Enhanced cleaning,Commercial-grade disinfectant used to clean the property
 CgsI0ZuI8IaE4b-uARAB,health_and_safety,Enhanced cleaning,"Employees wear masks, face shields, and/or gloves"
 CgsI0ZuI8IaE4b-uARAB,health_and_safety,Enhanced cleaning,Enhanced cleaning of common areas
@@ -105,73 +412,56 @@ CgsI0ZuI8IaE4b-uARAB,amenities,Accessibility,Accessible
 CgsI0ZuI8IaE4b-uARAB,amenities,Accessibility,Accessible elevator
 CgsI0ZuI8IaE4b-uARAB,amenities,Pets,No pets
 CgsI0ZuI8IaE4b-uARAB,amenities,Rooms,Air conditioning
-CgsI7o-xsb3izM6CARAB,health_and_safety,Enhanced cleaning,Enhanced cleaning of guest rooms
-CgsI7o-xsb3izM6CARAB,health_and_safety,Enhanced cleaning,Commercial-grade disinfectant used to clean the property
-CgsI7o-xsb3izM6CARAB,health_and_safety,Enhanced cleaning,Employees trained in COVID-19 cleaning procedures
-CgsI7o-xsb3izM6CARAB,health_and_safety,Enhanced cleaning,"Employees wear masks, face shields, and/or gloves"
-CgsI7o-xsb3izM6CARAB,health_and_safety,Enhanced cleaning,Enhanced cleaning of common areas
-CgsI7o-xsb3izM6CARAB,health_and_safety,Physical distancing,Guest occupancy limited within shared facilities
-CgsI7o-xsb3izM6CARAB,health_and_safety,Physical distancing,Physical distancing required
-CgsI7o-xsb3izM6CARAB,health_and_safety,Physical distancing,Common areas arranged to maintain physical distancing
-CgsI7o-xsb3izM6CARAB,health_and_safety,Physical distancing,Safety dividers at front desk and other locations
-CgsI7o-xsb3izM6CARAB,health_and_safety,Increased food safety,Individually-packaged meals
-CgsI7o-xsb3izM6CARAB,amenities,Popular amenities,Pool
-CgsI7o-xsb3izM6CARAB,amenities,Popular amenities,Wi-Fifree
-CgsI7o-xsb3izM6CARAB,amenities,Popular amenities,Air conditioning
-CgsI7o-xsb3izM6CARAB,amenities,Popular amenities,Breakfastextra charge
-CgsI7o-xsb3izM6CARAB,amenities,Internet,Wi-Fifree
-CgsI7o-xsb3izM6CARAB,amenities,Internet,Wi-Fi in public areas
-CgsI7o-xsb3izM6CARAB,amenities,Internet,Public internet workstation
-CgsI7o-xsb3izM6CARAB,amenities,Policies & payments,Smoke-free property
-CgsI7o-xsb3izM6CARAB,amenities,Policies & payments,Credit cards
-CgsI7o-xsb3izM6CARAB,amenities,Policies & payments,Debit cards
-CgsI7o-xsb3izM6CARAB,amenities,Policies & payments,Cash
-CgsI7o-xsb3izM6CARAB,amenities,Services,Front desk24 hour
-CgsI7o-xsb3izM6CARAB,amenities,Services,Baggage storage
-CgsI7o-xsb3izM6CARAB,amenities,Services,Concierge
-CgsI7o-xsb3izM6CARAB,amenities,Services,Full-service laundry
-CgsI7o-xsb3izM6CARAB,amenities,Services,Elevator
-CgsI7o-xsb3izM6CARAB,amenities,Services,Wake up calls
-CgsI7o-xsb3izM6CARAB,amenities,Services,Housekeepingdaily
-CgsI7o-xsb3izM6CARAB,amenities,Wellness,Fitness centerfree
-CgsI7o-xsb3izM6CARAB,amenities,Wellness,Elliptical machine
-CgsI7o-xsb3izM6CARAB,amenities,Wellness,Weight machines
-CgsI7o-xsb3izM6CARAB,amenities,Wellness,Free weights
-CgsI7o-xsb3izM6CARAB,amenities,Wellness,Sauna
-CgsI7o-xsb3izM6CARAB,amenities,Wellness,No spa
-CgsI7o-xsb3izM6CARAB,amenities,Pets,No pets
-CgsI7o-xsb3izM6CARAB,amenities,Rooms,Air conditioning
-CgsI7o-xsb3izM6CARAB,amenities,Rooms,Refrigerator
-CgsI7o-xsb3izM6CARAB,amenities,Rooms,Coffee maker
-CgsI7o-xsb3izM6CARAB,amenities,Rooms,Minibar
-CgsI7o-xsb3izM6CARAB,amenities,Food & drink,Restaurant
-CgsI7o-xsb3izM6CARAB,amenities,Food & drink,Bar
-CgsI7o-xsb3izM6CARAB,amenities,Food & drink,Table service
-CgsI7o-xsb3izM6CARAB,amenities,Food & drink,Room service
-CgsI7o-xsb3izM6CARAB,amenities,Food & drink,Breakfastextra charge
-CgsI7o-xsb3izM6CARAB,amenities,Food & drink,Breakfast buffet
-CgsI7o-xsb3izM6CARAB,amenities,Activities,Bicycle rental
-CgsI7o-xsb3izM6CARAB,amenities,Children,Kid-friendly
-CgsI7o-xsb3izM6CARAB,amenities,Pools,Outdoor pool
-CgsI7o-xsb3izM6CARAB,amenities,Pools,No hot tub
-CgsI7o-xsb3izM6CARAB,amenities,Parking & transportation,Parkingextra charge
-CgsI7o-xsb3izM6CARAB,amenities,Parking & transportation,Car rental onsite
-CgsI7o-xsb3izM6CARAB,amenities,Accessibility,Accessible
-CgsI7o-xsb3izM6CARAB,amenities,Accessibility,Accessible elevator
-CgsI7o-xsb3izM6CARAB,amenities,Business & events,Business center
-CgsI7o-xsb3izM6CARAB,amenities,Business & events,Meeting rooms
-CgsI7o-xsb3izM6CARAB,amenities,Languages spoken,English
-CgsI7o-xsb3izM6CARAB,amenities,Languages spoken,French
-CgsI7o-xsb3izM6CARAB,amenities,Languages spoken,German
-CgsI7o-xsb3izM6CARAB,amenities,Languages spoken,Spanish
-CgsI7o-xsb3izM6CARAB,amenities,Bathrooms,Private bathroom
-CgsI7o-xsb3izM6CARAB,amenities,Bathrooms,Bathtub in some rooms
-CgsI7o-xsb3izM6CARAB,amenities,Bathrooms,Shower in some rooms
-CgsI7o-xsb3izM6CARAB,sustainability,Eco certifications,ISO 14001
-CgsI7o-xsb3izM6CARAB,sustainability,Waste reduction,Recycling program
-CgsI7o-xsb3izM6CARAB,sustainability,Energy efficiency,Energy conservation program
-CgsI7o-xsb3izM6CARAB,sustainability,Energy efficiency,Electric vehicle charging stations
-CgsI7o-xsb3izM6CARAB,sustainability,Sustainable sourcing,Locally sourced food and beverages
+CgsI5fW-hdLRgdWoARAB,health_and_safety,Enhanced cleaning,Commercial-grade disinfectant used to clean the property
+CgsI5fW-hdLRgdWoARAB,health_and_safety,Enhanced cleaning,"Employees wear masks, face shields, and/or gloves"
+CgsI5fW-hdLRgdWoARAB,health_and_safety,Enhanced cleaning,Enhanced cleaning of common areas
+CgsI5fW-hdLRgdWoARAB,health_and_safety,Personal protection,Masks and/or gloves available for guests
+CgsI5fW-hdLRgdWoARAB,health_and_safety,Physical distancing,Physical distancing required
+CgsI5fW-hdLRgdWoARAB,health_and_safety,Physical distancing,Common areas arranged to maintain physical distancing
+CgsI5fW-hdLRgdWoARAB,health_and_safety,Minimized contact,Buffer maintained between room bookings
+CgsI5fW-hdLRgdWoARAB,health_and_safety,Increased food safety,Individually-packaged meals
+CgsI5fW-hdLRgdWoARAB,amenities,Popular amenities,Pool
+CgsI5fW-hdLRgdWoARAB,amenities,Popular amenities,Wi-Fifree
+CgsI5fW-hdLRgdWoARAB,amenities,Popular amenities,Air conditioning
+CgsI5fW-hdLRgdWoARAB,amenities,Popular amenities,Breakfastextra charge
+CgsI5fW-hdLRgdWoARAB,amenities,Internet,Wi-Fifree
+CgsI5fW-hdLRgdWoARAB,amenities,Policies & payments,Smoke-free property
+CgsI5fW-hdLRgdWoARAB,amenities,Policies & payments,Credit cards
+CgsI5fW-hdLRgdWoARAB,amenities,Policies & payments,Debit cards
+CgsI5fW-hdLRgdWoARAB,amenities,Policies & payments,NFC mobile payments
+CgsI5fW-hdLRgdWoARAB,amenities,Policies & payments,Cash
+CgsI5fW-hdLRgdWoARAB,amenities,Children,Kid-friendly
+CgsI5fW-hdLRgdWoARAB,amenities,Pools,Outdoor pool
+CgsI5fW-hdLRgdWoARAB,amenities,Parking & transportation,Airport shuttleextra charge
+CgsI5fW-hdLRgdWoARAB,amenities,Parking & transportation,Private car serviceextra charge
+CgsI5fW-hdLRgdWoARAB,amenities,Accessibility,Accessible
+CgsI5fW-hdLRgdWoARAB,amenities,Business & events,Business center
+CgsI5fW-hdLRgdWoARAB,amenities,Business & events,Meeting rooms
+CgsI5fW-hdLRgdWoARAB,amenities,Languages spoken,English
+CgsI5fW-hdLRgdWoARAB,amenities,Languages spoken,French
+CgsI5fW-hdLRgdWoARAB,amenities,Languages spoken,Italian
+CgsI5fW-hdLRgdWoARAB,amenities,Languages spoken,Portuguese
+CgsI5fW-hdLRgdWoARAB,amenities,Languages spoken,Spanish
+CgsI5fW-hdLRgdWoARAB,amenities,Food & drink,Restaurant
+CgsI5fW-hdLRgdWoARAB,amenities,Food & drink,Bar
+CgsI5fW-hdLRgdWoARAB,amenities,Food & drink,Table service
+CgsI5fW-hdLRgdWoARAB,amenities,Food & drink,Room service
+CgsI5fW-hdLRgdWoARAB,amenities,Food & drink,Breakfastextra charge
+CgsI5fW-hdLRgdWoARAB,amenities,Food & drink,Breakfast buffet
+CgsI5fW-hdLRgdWoARAB,amenities,Services,Front desk24 hour
+CgsI5fW-hdLRgdWoARAB,amenities,Services,Baggage storage
+CgsI5fW-hdLRgdWoARAB,amenities,Services,Concierge
+CgsI5fW-hdLRgdWoARAB,amenities,Services,Full-service laundry
+CgsI5fW-hdLRgdWoARAB,amenities,Services,Elevator
+CgsI5fW-hdLRgdWoARAB,amenities,Services,Wake up calls
+CgsI5fW-hdLRgdWoARAB,amenities,Services,Housekeepingdaily
+CgsI5fW-hdLRgdWoARAB,amenities,Wellness,Fitness centerfree
+CgsI5fW-hdLRgdWoARAB,amenities,Wellness,Elliptical machine
+CgsI5fW-hdLRgdWoARAB,amenities,Wellness,Treadmill
+CgsI5fW-hdLRgdWoARAB,amenities,Wellness,Weight machines
+CgsI5fW-hdLRgdWoARAB,amenities,Wellness,Free weights
+CgsI5fW-hdLRgdWoARAB,amenities,Pets,No pets
+CgsI5fW-hdLRgdWoARAB,amenities,Rooms,Air conditioning
 CgsI7semh7nNrZKlARAB,health_and_safety,Enhanced cleaning,Enhanced cleaning of guest rooms
 CgsI7semh7nNrZKlARAB,health_and_safety,Enhanced cleaning,Commercial-grade disinfectant used to clean the property
 CgsI7semh7nNrZKlARAB,health_and_safety,Enhanced cleaning,Employees trained in COVID-19 cleaning procedures
@@ -275,6 +565,87 @@ CgsI7semh7nNrZKlARAB,sustainability,Waste reduction,Water bottle filling station
 CgsI7semh7nNrZKlARAB,sustainability,Waste reduction,Compostable food containers and cutlery
 CgsI7semh7nNrZKlARAB,sustainability,Waste reduction,No Styrofoam food containers
 CgsI7semh7nNrZKlARAB,sustainability,Waste reduction,No single-use plastic straws
+CgsI9Nyq-d2QwuKjARAB,health_and_safety,Enhanced cleaning,Commercial-grade disinfectant used to clean the property
+CgsI9Nyq-d2QwuKjARAB,health_and_safety,Enhanced cleaning,"Employees wear masks, face shields, and/or gloves"
+CgsI9Nyq-d2QwuKjARAB,health_and_safety,Enhanced cleaning,Enhanced cleaning of common areas
+CgsI9Nyq-d2QwuKjARAB,health_and_safety,Personal protection,Masks required on the property
+CgsI9Nyq-d2QwuKjARAB,health_and_safety,Physical distancing,Physical distancing required
+CgsI9Nyq-d2QwuKjARAB,health_and_safety,Physical distancing,Common areas arranged to maintain physical distancing
+CgsI9Nyq-d2QwuKjARAB,health_and_safety,Physical distancing,Safety dividers at front desk and other locations
+CgsI9Nyq-d2QwuKjARAB,health_and_safety,Minimized contact,Buffer maintained between room bookings
+CgsI9Nyq-d2QwuKjARAB,health_and_safety,Increased food safety,Individually-packaged meals
+CgsI9Nyq-d2QwuKjARAB,amenities,Popular amenities,Pool
+CgsI9Nyq-d2QwuKjARAB,amenities,Popular amenities,Spa
+CgsI9Nyq-d2QwuKjARAB,amenities,Popular amenities,Hot tub
+CgsI9Nyq-d2QwuKjARAB,amenities,Popular amenities,Breakfastfree
+CgsI9Nyq-d2QwuKjARAB,amenities,Internet,Wi-Fifree
+CgsI9Nyq-d2QwuKjARAB,amenities,Policies & payments,Smoke-free property
+CgsI9Nyq-d2QwuKjARAB,amenities,Services,Front desk24 hour
+CgsI9Nyq-d2QwuKjARAB,amenities,Services,Full-service laundry
+CgsI9Nyq-d2QwuKjARAB,amenities,Parking & transportation,Parkingextra charge
+CgsI9Nyq-d2QwuKjARAB,amenities,Parking & transportation,Self parkingextra charge
+CgsI9Nyq-d2QwuKjARAB,amenities,Accessibility,Accessible
+CgsI9Nyq-d2QwuKjARAB,amenities,Rooms,Air conditioning
+CgsI9Nyq-d2QwuKjARAB,amenities,Food & drink,Restaurant
+CgsI9Nyq-d2QwuKjARAB,amenities,Food & drink,Bar
+CgsI9Nyq-d2QwuKjARAB,amenities,Food & drink,Table service
+CgsI9Nyq-d2QwuKjARAB,amenities,Food & drink,Room service
+CgsI9Nyq-d2QwuKjARAB,amenities,Food & drink,Breakfastfree
+CgsI9Nyq-d2QwuKjARAB,amenities,Food & drink,Breakfast buffet
+CgsI9Nyq-d2QwuKjARAB,amenities,Pools,Pool
+CgsI9Nyq-d2QwuKjARAB,amenities,Pools,Hot tub
+CgsI9Nyq-d2QwuKjARAB,amenities,Wellness,Fitness center
+CgsI9Nyq-d2QwuKjARAB,amenities,Wellness,Sauna
+CgsI9Nyq-d2QwuKjARAB,amenities,Wellness,Spa
+CgsI9Nyq-d2QwuKjARAB,sustainability,Eco certifications,Biosphere Responsible Tourism Standard
+CgsI9Nyq-d2QwuKjARAB,sustainability,Water conservation,"Water-efficient faucets, toilets, and showers"
+CgsI9Nyq-d2QwuKjARAB,sustainability,Water conservation,Towel and linen reuse program
+CgsI9Nyq-d2QwuKjARAB,sustainability,Sustainable sourcing,Responsible purchasing policy
+CgsI9Nyq-d2QwuKjARAB,sustainability,Sustainable sourcing,Locally sourced food and beverages
+CgsI9Nyq-d2QwuKjARAB,sustainability,Sustainable sourcing,Vegetarian meals
+CgsI9Nyq-d2QwuKjARAB,sustainability,Energy efficiency,Energy conservation program
+CgsI9Nyq-d2QwuKjARAB,sustainability,Energy efficiency,Energy use audited by an independent organization
+CgsI9Nyq-d2QwuKjARAB,sustainability,Energy efficiency,Energy-efficient heating and cooling systems
+CgsI9Nyq-d2QwuKjARAB,sustainability,Energy efficiency,Energy-efficient lighting
+CgsI9Nyq-d2QwuKjARAB,sustainability,Energy efficiency,Energy-saving thermostats
+CgsI9Nyq-d2QwuKjARAB,sustainability,Energy efficiency,Electric vehicle charging stations
+CgsI9Nyq-d2QwuKjARAB,sustainability,Waste reduction,Recycling program
+CgsI9Nyq-d2QwuKjARAB,sustainability,Waste reduction,Food waste reduction program
+CgsI9Nyq-d2QwuKjARAB,sustainability,Waste reduction,Safely handles hazardous substances
+CgsI9Nyq-d2QwuKjARAB,sustainability,Waste reduction,"Safely disposes of electronics, batteries, and lightbulbs"
+CgsI9Nyq-d2QwuKjARAB,sustainability,Waste reduction,Refillable toiletry containers
+CgsI9Nyq-d2QwuKjARAB,sustainability,Waste reduction,Water bottle filling stations
+CgsIhtept_n5lsSxARAB,health_and_safety,Enhanced cleaning,Commercial-grade disinfectant used to clean the property
+CgsIhtept_n5lsSxARAB,health_and_safety,Enhanced cleaning,"Employees wear masks, face shields, and/or gloves"
+CgsIhtept_n5lsSxARAB,health_and_safety,Enhanced cleaning,Enhanced cleaning of common areas
+CgsIhtept_n5lsSxARAB,health_and_safety,Physical distancing,Physical distancing required
+CgsIhtept_n5lsSxARAB,health_and_safety,Physical distancing,Common areas arranged to maintain physical distancing
+CgsIhtept_n5lsSxARAB,health_and_safety,Physical distancing,Safety dividers at front desk and other locations
+CgsIhtept_n5lsSxARAB,health_and_safety,Minimized contact,No-contact check-in and check-out
+CgsIhtept_n5lsSxARAB,health_and_safety,Minimized contact,Buffer maintained between room bookings
+CgsIhtept_n5lsSxARAB,health_and_safety,Increased food safety,Individually-packaged meals
+CgsIhtept_n5lsSxARAB,amenities,Popular amenities,Pool
+CgsIhtept_n5lsSxARAB,amenities,Popular amenities,Spa
+CgsIhtept_n5lsSxARAB,amenities,Popular amenities,Hot tub
+CgsIhtept_n5lsSxARAB,amenities,Popular amenities,Wi-Fifree
+CgsIhtept_n5lsSxARAB,amenities,Internet,Wi-Fifree
+CgsIhtept_n5lsSxARAB,amenities,Policies & payments,Smoke-free property
+CgsIhtept_n5lsSxARAB,amenities,Children,Kid-friendly
+CgsIhtept_n5lsSxARAB,amenities,Pools,Pool
+CgsIhtept_n5lsSxARAB,amenities,Pools,Hot tub
+CgsIhtept_n5lsSxARAB,amenities,Accessibility,Accessible
+CgsIhtept_n5lsSxARAB,amenities,Business & events,Business center
+CgsIhtept_n5lsSxARAB,amenities,Rooms,Air conditioning
+CgsIhtept_n5lsSxARAB,amenities,Food & drink,Restaurant
+CgsIhtept_n5lsSxARAB,amenities,Food & drink,Bar
+CgsIhtept_n5lsSxARAB,amenities,Food & drink,Breakfast
+CgsIhtept_n5lsSxARAB,amenities,Services,Front desk24 hour
+CgsIhtept_n5lsSxARAB,amenities,Services,Full-service laundry
+CgsIhtept_n5lsSxARAB,amenities,Parking & transportation,Parking
+CgsIhtept_n5lsSxARAB,amenities,Wellness,Fitness center
+CgsIhtept_n5lsSxARAB,amenities,Wellness,Sauna
+CgsIhtept_n5lsSxARAB,amenities,Wellness,Spa
+CgsIhtept_n5lsSxARAB,amenities,Pets,No pets
 CgsIlfeR45ngz6HSARAB,amenities,Popular amenities,Wi-Fifree
 CgsIlfeR45ngz6HSARAB,amenities,Popular amenities,Air conditioning
 CgsIlfeR45ngz6HSARAB,amenities,Popular amenities,Airport shuttle
@@ -291,3 +662,52 @@ CgsIlfeR45ngz6HSARAB,amenities,Services,Full-service laundry
 CgsIlfeR45ngz6HSARAB,amenities,Pools,No pools
 CgsIlfeR45ngz6HSARAB,amenities,Wellness,No fitness center
 CgsIlfeR45ngz6HSARAB,amenities,Pets,Pet-friendly
+CgsIxuzD9LXeh-imARAB,health_and_safety,Enhanced cleaning,Commercial-grade disinfectant used to clean the property
+CgsIxuzD9LXeh-imARAB,health_and_safety,Enhanced cleaning,"Employees wear masks, face shields, and/or gloves"
+CgsIxuzD9LXeh-imARAB,health_and_safety,Enhanced cleaning,Enhanced cleaning of common areas
+CgsIxuzD9LXeh-imARAB,health_and_safety,Personal protection,Masks required on the property
+CgsIxuzD9LXeh-imARAB,health_and_safety,Personal protection,Masks and/or gloves available for guests
+CgsIxuzD9LXeh-imARAB,health_and_safety,Physical distancing,Physical distancing required
+CgsIxuzD9LXeh-imARAB,health_and_safety,Physical distancing,Common areas arranged to maintain physical distancing
+CgsIxuzD9LXeh-imARAB,health_and_safety,Physical distancing,Safety dividers at front desk and other locations
+CgsIxuzD9LXeh-imARAB,health_and_safety,Minimized contact,No-contact check-in and check-out
+CgsIxuzD9LXeh-imARAB,health_and_safety,Increased food safety,Individually-packaged meals
+CgsIxuzD9LXeh-imARAB,amenities,Popular amenities,Pool
+CgsIxuzD9LXeh-imARAB,amenities,Popular amenities,Wi-Fifree
+CgsIxuzD9LXeh-imARAB,amenities,Popular amenities,Air conditioning
+CgsIxuzD9LXeh-imARAB,amenities,Popular amenities,Breakfastextra charge
+CgsIxuzD9LXeh-imARAB,amenities,Internet,Wi-Fifree
+CgsIxuzD9LXeh-imARAB,amenities,Internet,Wi-Fi in public areas
+CgsIxuzD9LXeh-imARAB,amenities,Policies & payments,Smoke-free property
+CgsIxuzD9LXeh-imARAB,amenities,Policies & payments,Credit cards
+CgsIxuzD9LXeh-imARAB,amenities,Policies & payments,Cash
+CgsIxuzD9LXeh-imARAB,amenities,Children,Kid-friendly
+CgsIxuzD9LXeh-imARAB,amenities,Pools,Outdoor pool
+CgsIxuzD9LXeh-imARAB,amenities,Pools,No hot tub
+CgsIxuzD9LXeh-imARAB,amenities,Pets,No pets
+CgsIxuzD9LXeh-imARAB,amenities,Rooms,Air conditioning
+CgsIxuzD9LXeh-imARAB,amenities,Rooms,Refrigerator in some rooms
+CgsIxuzD9LXeh-imARAB,amenities,Rooms,Coffee maker in some rooms
+CgsIxuzD9LXeh-imARAB,amenities,Rooms,Minibar
+CgsIxuzD9LXeh-imARAB,amenities,Bathrooms,Private bathroom
+CgsIxuzD9LXeh-imARAB,amenities,Bathrooms,Bathtub in some rooms
+CgsIxuzD9LXeh-imARAB,amenities,Bathrooms,Shower in some rooms
+CgsIxuzD9LXeh-imARAB,amenities,Food & drink,Restaurant
+CgsIxuzD9LXeh-imARAB,amenities,Food & drink,Bar
+CgsIxuzD9LXeh-imARAB,amenities,Food & drink,Table service
+CgsIxuzD9LXeh-imARAB,amenities,Food & drink,Room service
+CgsIxuzD9LXeh-imARAB,amenities,Food & drink,Breakfastextra charge
+CgsIxuzD9LXeh-imARAB,amenities,Food & drink,Breakfast buffet
+CgsIxuzD9LXeh-imARAB,amenities,Services,Front desk24 hour
+CgsIxuzD9LXeh-imARAB,amenities,Services,Full-service laundry
+CgsIxuzD9LXeh-imARAB,amenities,Services,Elevator
+CgsIxuzD9LXeh-imARAB,amenities,Accessibility,Accessible
+CgsIxuzD9LXeh-imARAB,amenities,Languages spoken,English
+CgsIxuzD9LXeh-imARAB,amenities,Languages spoken,French
+CgsIxuzD9LXeh-imARAB,amenities,Languages spoken,German
+CgsIxuzD9LXeh-imARAB,amenities,Languages spoken,Italian
+CgsIxuzD9LXeh-imARAB,amenities,Languages spoken,Japanese
+CgsIxuzD9LXeh-imARAB,amenities,Languages spoken,Mandarin
+CgsIxuzD9LXeh-imARAB,amenities,Languages spoken,Portuguese
+CgsIxuzD9LXeh-imARAB,amenities,Languages spoken,Russian
+CgsIxuzD9LXeh-imARAB,amenities,Languages spoken,Spanish
